@@ -1,16 +1,19 @@
-### Hi there 👋
+Programming and Database Teacher on Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS). 
 
-<!--
-**iurisaints/iurisaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA on Cybersecurity - Descomplica Faculdade Digital;
+Computer Science Degree - Instituto Federal Farroupilha (IFFAR). 
 
-Here are some ideas to get you started:
+👨‍💼💻 XPs:
+- Programming and Database Teacher - IFRS (since mar/2022);
+- Software Developer Full-Stack Treinee (jan/2021 - dez/2021);
+- Telecom Support (2020);
+- Computer Pedagogical Residency Program (jan/2017- dez/2019 - PIBID).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Autoral Repositories:
+- Python Learning Objects: github.com/iurisaints/pythonClass;
+- APIs Tests w/ Node.js: github.com/iurisaints/intedata;
+- Educational Robotics Learning Objects w/ C++: https://github.com/iurisaints/projetoRobotica.
+
+📬 Contact:
+Personal: iurisaints@gmail.com;
+Professional: iuri.santos@sertao.ifrs.edu.br.
