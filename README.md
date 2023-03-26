@@ -11,9 +11,9 @@ Computer Science Degree - Instituto Federal Farroupilha (IFFAR).
 - Computer Pedagogical Residency Program (jan/2017- dez/2019 - PIBID).
 
 🚀 Autoral Repositories:
-- [Python Learning Objects](github.com/iurisaints/pythonClass)
-- [APIs Tests w/ Node.js](github.com/iurisaints/intedata)
-- [Educational Robotics Learning Objects w/ C++](https://github.com/iurisaints/projetoRobotica)
+- [Python Learning Objects](https://www.github.com/iurisaints/pythonClass)
+- [APIs Tests w/ Node.js](https://www.github.com/iurisaints/intedata)
+- [Educational Robotics Learning Objects w/ C++](https://www.github.com/iurisaints/projetoRobotica)
 
 📬 Contact:
 Personal: iurisaints@gmail.com
