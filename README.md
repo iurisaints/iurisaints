@@ -21,4 +21,3 @@ Computer Science Degree - Instituto Federal Farroupilha (IFFAR).
 
 📬 Contact:
 Personal: iurisaints@gmail.com
-Professional: iuri.santos@sertao.ifrs.edu.br
