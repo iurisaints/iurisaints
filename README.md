@@ -1,5 +1,3 @@
-Programming and Database Teacher on Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS). 
-
 MBA on Cybersecurity - Descomplica Faculdade Digital;
 
 Computer Science Degree - Instituto Federal Farroupilha (IFFAR). 
