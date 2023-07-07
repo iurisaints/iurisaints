@@ -17,6 +17,7 @@ Computer Science Degree - Instituto Federal Farroupilha (IFFAR).
 - [Educational Robotics Learning Objects w/ C++](https://www.github.com/iurisaints/projetoRobotica)
 - [Educational Cybersecurity Tools w/ Python](https://www.github.com/iurisaints/cybersecurity)
 - [Educational SQL Objects](https://www.github.com/iurisaints/SQLClass)
+- [Educational TypeScript Objects](https://www.github.com/iurisaints/typescriptClass)
 
 📬 Contact:
 Personal: iurisaints@gmail.com
