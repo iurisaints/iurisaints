@@ -21,3 +21,5 @@ Computer Science Degree - Instituto Federal Farroupilha (IFFAR).
 
 📬 Contact:
 Personal: iurisaints@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurisaints&layout=compact)
