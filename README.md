@@ -4,10 +4,11 @@ Computer Science Degree - Instituto Federal Farroupilha (IFFAR).
 
 👨‍💼💻 XPs:
 - Programming and Database Teacher - SENAC RS (since mai/2023);
-- Programming and Database Teacher - IFRS (mar/2022 - mai/2023);
-- Software Developer Full-Stack Treinee (jan/2021 - dez/2021);
+- Programming and Database Teacher - IFRS (mar/2022 - may/2023);
+- Software Developer Full-Stack Treinee (jan/2021 - dec/2021);
 - Telecom Support (2020);
-- Computer Pedagogical Residency Program (jan/2017- dez/2019 - PIBID).
+- Computer Technical Intern IFFar (apr/18 - dec/19);
+- Computer Pedagogical Residency Program (jul/2016 - apr/2018 - PIBID).
 
 🚀 Autoral Repositories:
 - [Python Learning Objects](https://www.github.com/iurisaints/pythonClass)
