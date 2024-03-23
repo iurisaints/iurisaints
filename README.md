@@ -2,6 +2,8 @@ MBA on Cybersecurity - Descomplica Faculdade Digital;
 
 Computer Science Degree - Instituto Federal Farroupilha (IFFAR). 
 
+Coordenador do Técnico em Desenvolvimento de Sistemas Bilíngue.
+
 👨‍💼💻 XPs:
 - Development Teacher (HTML, CSS, JS, TS, SQL, Node.js...) - SENAC RS (since mai/2023);
 - Development Teacher (HTML, CSS, Python and SQL) - IFRS Sertão (mar/2022 - may/2023);
