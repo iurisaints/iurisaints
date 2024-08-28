@@ -1,4 +1,4 @@
-MBA on Cybersecurity - Descomplica Faculdade Digital;
+MBA on Cybersecurity;
 
 Computer Science Degree - Instituto Federal Farroupilha (IFFAR). 
 
