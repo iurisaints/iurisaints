@@ -22,6 +22,8 @@ Coordenador do Técnico em Desenvolvimento de Sistemas Bilíngue.
 - [3000 Talentos TI - Backend Development](https://www.github.com/iurisaints/talentosTI)
 
 📬 Contact:
+
 Personal: iurisaints@gmail.com
+Professional: insantos@senacrs.com.br
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurisaints&layout=compact)
