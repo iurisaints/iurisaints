@@ -7,7 +7,7 @@ Coordenador do Técnico em Desenvolvimento de Sistemas Bilíngue.
 👨‍💼💻 XPs:
 - Development Teacher (HTML, CSS, JS, TS, SQL, Node.js...) - SENAC RS (since may/2023);
 - Development Teacher (HTML, CSS, Python and SQL) - IFRS Sertão (mar/2022 - may/2023);
-- Software Developer Full-Stack Treinee - B5S (jan/2021 - dec/2021);
+- Software Developer FullStack - B5S (jan/2021 - dec/2021);
 - Telecom Support - BRPhonia (2020);
 - Computer Technical Intern IFFar (apr/18 - dec/19);
 - Computer Pedagogical Residency Program - PIBID CIEP (jul/2016 - apr/2018).
