@@ -2,7 +2,7 @@ MBA on Cybersecurity;
 
 Computer Science Degree - Instituto Federal Farroupilha (IFFAR). 
 
-Coordenador do Técnico em Desenvolvimento de Sistemas Bilíngue.
+Professor do Ensino Médio Articulado ao Técnico em Informática no SENAC de São Leopoldo.
 
 👨‍💼💻 XPs:
 - Development Teacher and Coordinator (HTML, CSS, JS, TS, SQL, Node.js...) - SENAC RS (since may/2023);
